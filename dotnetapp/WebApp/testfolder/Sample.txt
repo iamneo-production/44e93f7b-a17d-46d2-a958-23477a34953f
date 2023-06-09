@@ -3,3 +3,5 @@ This is a sample text file to show the merge operation between main and my branc
 The code should be added. 
 
 Now I am the main branch. This code is the complete code of all the branches.
+
+
