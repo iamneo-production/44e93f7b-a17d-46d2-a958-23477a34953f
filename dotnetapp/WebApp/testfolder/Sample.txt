@@ -1,1 +1,3 @@
 This is a sample text file to show the merge operation between main and my branch
+
+The code should be added. 
